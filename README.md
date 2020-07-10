@@ -1,6 +1,6 @@
 # Docker Boilerplate for Symfony 5 Development
 
-This repository provides a local Docker development environment for Symfony 5 applications based on a customised version of the `php:7.4.6-fpm-alpine` Docker image pulled from [foxsoup/alpine](https://hub.docker.com/r/foxsoup/alpine). It provides Nginx, PHP-FPM, s6, Composer, MySQL client, Git, OpenSSL and other assorted goodies, and forces all connections over SSL. The Dockerfile for building this image can be found at https://github.com/foxsoup/docker-alpine.
+This repository provides a local Docker development environment for Symfony 5 applications based on a customised version of the `php:7.4.6-fpm-alpine` Docker image pulled from [foxsoup/alpine-php](https://hub.docker.com/r/foxsoup/alpine-php). It provides Nginx, PHP-FPM, s6, Composer, MySQL client, Git, OpenSSL and other assorted goodies, and forces all connections over SSL. The Dockerfile for building this image can be found at https://github.com/foxsoup/docker-alpine.
 
 ## Assumptions
 
